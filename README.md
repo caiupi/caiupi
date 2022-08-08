@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning java, JEE, javascript, React, Sql
 - 👯 I’m looking to collaborate on open source project.
 - 💬 Ask me about programming.
-- 📫 How to reach me: [Bajron Ismailaj](https://www.caiupi.com)
-- 📝 [linkedin](https://www.linkedin.com/in/bajron-ismailaj-4a2b112a)
+- 📫 How to reach me:  [Email](mailto:caiupi@yahoo.it)   [Bajron Ismailaj](https://www.caiupi.com)
+- 📝 [Linkedin](https://www.linkedin.com/in/bajron-ismailaj-4a2b112a)
 
