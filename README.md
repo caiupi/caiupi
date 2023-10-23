@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source project.
 - 💬 Ask me about programming.
 - 📫 How to reach me:  [Email](mailto:caiupi@yahoo.it)  
-- 📫 [Bajron Ismailaj](https://www.caiupi.com)
+- 📫 [Bajron Ismailaj](https://www.cv.caiupi.com)
 - 📝 [Linkedin](https://www.linkedin.com/in/bajron-ismailaj-4a2b112a)
 
