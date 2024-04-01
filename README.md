@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming.
 - 📫 How to reach me:  [Email](mailto:caiupi@yahoo.it)  
 - 📫 [Bajron Ismailaj](https://www.cv.caiupi.com)
-- 📝 [Linkedin](https://www.linkedin.com/in/bajron-ismailaj-4a2b112a)
+- 📝 [Linkedin](https://www.linkedin.com/in/bajron/)
 
