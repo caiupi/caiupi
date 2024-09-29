@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📝 [Linkedin](https://www.linkedin.com/in/bajron/)
 
 ## <img src="https://media0.giphy.com/media/kAm4u0lhDCmXnugz6p/200.webp?cid=ecf05e47h24ev10qtfvziw5ene5acs9y3znt7pbc9bfhuhkk&ep=v1_stickers_search&rid=200.webp&ct=ts" width="34">&nbsp; Languages & Tech Stack
-* [![My Skills](https://skillicons.dev/icons?i=java,javascript,react,redux,spring,postgres,mysql,maven,css,postman,git,github,gitlab,redhat,notion,linux,php,windows,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,javascript,react,redux,spring,postgres,mysql,maven,css,postman,git,github,gitlab,redhat,notion,linux,php,windows,vscode)](https://skillicons.dev)
+
+##
+<br/>
+<p align="center" display="flex" flexDirection="row">
+  <a href="https://github.com/caiupi/github-readme-stats">
+	  <img alt="Bajron's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=caiupi&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" />
+  </a>
+</p>
